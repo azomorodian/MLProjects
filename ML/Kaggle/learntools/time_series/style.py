@@ -29,4 +29,4 @@ plot_params = dict(
     legend=False,
 )
 
-get_ipython().config.InlineBackend.figure_format = 'retina'
+#get_ipython().config.InlineBackend.figure_format = 'retina'
